@@ -1,74 +1,101 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Farhan;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Building+cool+stuff+with+AI+%F0%9F%A4%96)
-
-</div>
+<!-- ████████████████████████████████████████████████ -->
+<!--              MUHAMMAD FARHAN — GITHUB PROFILE              -->
+<!-- ████████████████████████████████████████████████ -->
 
 <div align="center">
-<b>Founder @ Datraxa.com &nbsp;·&nbsp; BS Data Science &nbsp;·&nbsp; Open to Remote Opportunities</b>
+<img src="header.svg" alt="Muhammad Farhan" width="100%"/>
 </div>
 
 <br/>
 
+<!-- ── TERMINAL TYPING ANIMATION ── -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhmdfarhan0&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/muhmdfarhan0?style=for-the-badge&color=00d9ff&labelColor=0d1117)
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%24+python+train.py+--model+yolov8+--deploy+edge;%24+git+push+origin+main+%23+shipped+%E2%9C%93;%24+datraxa+build+--product+promptpix;%24+fiverr+deliver+--rating+5.0+--projects+120%2B;%24+python+scrape.py+--target+b2b+--automate+true)
 
 </div>
 
+<br/>
+
+<!-- ── STATS BADGES ROW 1 ── -->
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=muhmdfarhan0&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/muhmdfarhan0?style=for-the-badge&label=FOLLOWERS&color=pink)
+&nbsp;
+![Fiverr](https://img.shields.io/badge/FIVERR-120%2B_PROJECTS-orange?style=for-the-badge)
+&nbsp;
+![Rating](https://img.shields.io/badge/RATING-4.9_%E2%AD%90-yellow?style=for-the-badge)
+&nbsp;
+![Status](https://img.shields.io/badge/%E2%9A%A1_STATUS-OPEN_TO_REMOTE-brightgreen?style=for-the-badge)
+
+</div>
+
+<!-- ── STATS BADGES ROW 2 ── -->
+<div align="center">
+
+![Gold Medal](https://img.shields.io/badge/%F0%9F%A5%87_GOLD_MEDAL-ICS_991%2F1100-gold?style=for-the-badge)
+&nbsp;
+![PM Award](https://img.shields.io/badge/%F0%9F%8F%86_PM_LAPTOP-NATIONAL_MERIT_2025-blue?style=for-the-badge)
+&nbsp;
+![AirxML](https://img.shields.io/badge/%F0%9F%A4%96_AirxML-RUNNER_UP_2024-blueviolet?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<!-- ── JUPYTER WHOAMI ── -->
+
+**`In [1]:`** &nbsp; `whoami`
+
+```python
+me = {
+    "name":          "Muhammad Farhan",
+    "role":          "AI/ML Engineer & Computer Vision Specialist",
+    "agency":        "Datraxa.com — founder & builder",
+    "location":      "Islamabad, Pakistan 🇵🇰",
+    "education":     "BS Data Science — Air University (CGPA 3.28/4.0)",
+    "experience":    "4+ years in CV, ML, Edge AI, Automation",
+    "products":      ["PromptPix (promptpix.site)",
+                      "Scrapreach (scrapreach.online)"],
+    "fiverr":        "Level 2 Seller · 120+ projects · 4.9 ⭐",
+    "open_to":       "Remote ML/CV/AI roles (US & UK startups)",
+    "currently":     "Building AI tools @ Datraxa · job hunting",
+}
+```
+
+**`Out [1]:`**
+
+```
+{'name': 'Muhammad Farhan', 'role': 'AI/ML Engineer & Computer Vision Specialist', ...}
+```
+
+<br/>
+
 ---
 
-## About Me
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### What I do
-
-- BS Data Science — Air University, Islamabad
-- 4+ years in Computer Vision & ML Engineering
-- Running AI/ML agency **[Datraxa.com](https://datraxa.com)**
-- Shipped 2 live SaaS products (PromptPix, Scrapreach)
-- Based in Islamabad · Open to Remote (US / UK)
-- Actively targeting YC-backed & recently funded startups
-- Fiverr freelancer — AI, scraping & automation
-- Always building something with AI
-
-</td>
-<td valign="top" width="45%">
-
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhmdfarhan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)
-
-</td>
-</tr>
-</table>
-
----
-
-## What I've Built
+<!-- ── WHAT I'VE BUILT ── -->
+## 🚀 Live Products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### PromptPix
+AI-powered visual search engine. Search and discover images using natural language prompts — built on CLIP-based embeddings and vector search.
 
-AI-powered visual search engine. Search and discover images using natural language prompts — built on top of CLIP-based embeddings and vector search.
-
-![LIVE](https://img.shields.io/badge/LIVE-SaaS-00d9ff?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Computer_Vision-blueviolet?style=for-the-badge)
+[![LIVE](https://img.shields.io/badge/LIVE-SaaS-blueviolet?style=for-the-badge)](https://promptpix.site)
+![AI](https://img.shields.io/badge/AI-Computer_Vision-7c3aed?style=for-the-badge)
 ![Search](https://img.shields.io/badge/NLP-Vector_Search-ff69b4?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
 
 ### Scrapreach
-
 B2B lead generation platform. Automated data collection, enrichment, and outreach pipeline at scale — targeting US & UK markets.
 
-![LIVE](https://img.shields.io/badge/LIVE-SaaS-00d9ff?style=for-the-badge)
+[![LIVE](https://img.shields.io/badge/LIVE-SaaS-blueviolet?style=for-the-badge)](https://scrapreach.online)
 ![Automation](https://img.shields.io/badge/Web-Scraping-orange?style=for-the-badge)
 ![B2B](https://img.shields.io/badge/B2B-Lead_Gen-brightgreen?style=for-the-badge)
 
@@ -78,129 +105,124 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 
 ---
 
-## Tech Stack
+<!-- ── TECH STACK ── -->
+## 🛠️ Tech Stack
 
 **AI / ML / Computer Vision**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv5%2Fv7%2Fv8-00FFFF?style=for-the-badge&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![Edge AI](https://img.shields.io/badge/Edge_AI-RKNN%2FINT8-9333ea?style=for-the-badge)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Scraping & Automation**
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Apify](https://img.shields.io/badge/Apify-00B5AD?style=for-the-badge&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6366f1?style=for-the-badge&logoColor=white)
 
-**Databases & Infrastructure**
+**Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Frontend**
+**Annotation Tools**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-blue?style=for-the-badge)
+![Roboflow](https://img.shields.io/badge/Roboflow-purple?style=for-the-badge)
+![LabelStudio](https://img.shields.io/badge/Label_Studio-FF6B6B?style=for-the-badge)
 
 ---
 
-## GitHub Stats
+<!-- ── GITHUB STATS ── -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhmdfarhan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhmdfarhan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmdfarhan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmdfarhan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" height="165" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmdfarhan0&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmdfarhan0&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)
 
 </div>
 
 ---
 
-## Contribution Snake
+<!-- ── CONTRIBUTION SNAKE ── -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/muhmdfarhan0/muhmdfarhan0/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/muhmdfarhan0/muhmdfarhan0/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/muhmdfarhan0/muhmdfarhan0/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhmdfarhan0/muhmdfarhan0/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhmdfarhan0/muhmdfarhan0/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/muhmdfarhan0/muhmdfarhan0/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## Contribution Activity
-
+<!-- ── ACTIVITY GRAPH ── -->
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhmdfarhan0&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhmdfarhan0&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## Open to Opportunities
+<!-- ── OPEN TO WORK ── -->
+## 💼 Open to Opportunities
 
 > **Actively looking for remote ML / CV / AI Engineering roles at US & UK funded startups**
 >
-> Available as a **contractor or full-time remote** from Islamabad, Pakistan.
+> Available as **contractor or full-time remote** from Islamabad, Pakistan.
 >
-> Ideal roles: **Computer Vision Engineer** · **ML Engineer** · **AI Engineer** · **Automation Engineer** · **Robotics Software**
+> Ideal roles: **Computer Vision Engineer** · **ML Engineer** · **AI Engineer** · **Automation Engineer**
 
 <br/>
 
 ![Available](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge)
-![Remote](https://img.shields.io/badge/Type-Remote_Only-00d9ff?style=for-the-badge)
+![Remote](https://img.shields.io/badge/Type-Remote_Only-7c3aed?style=for-the-badge)
 ![Contract](https://img.shields.io/badge/Mode-Contract_%2F_Full--Time-blueviolet?style=for-the-badge)
 
 ---
 
-## Let's Connect
+<!-- ── CONNECT ── -->
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_USERNAME)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/FIVERR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Agency](https://img.shields.io/badge/Agency-Datraxa.com-00d9ff?style=for-the-badge&logoColor=white)](https://datraxa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhmdfarhan0)
+&nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/muhmdfarhan0)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfarhan03333@gmail.com)
+&nbsp;
+[![Agency](https://img.shields.io/badge/Datraxa.com-00d9ff?style=for-the-badge&logoColor=white)](https://datraxa.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -217,42 +239,46 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 SETUP STEPS — READ BEFORE PUBLISHING
 ══════════════════════════════════════════════════
 
-1. CREATE THE PROFILE REPO
+1. CREATE THE PROFILE REPO (if not done)
    Go to github.com/new
    Name it exactly: muhmdfarhan0  (your GitHub username)
-   Set it to Public
-   Check "Add a README file"
-   Click Create repository
+   Set to Public · check "Add a README file" · Create
 
-2. REPLACE PLACEHOLDERS
-   Find and replace these 3 values in this file:
-   - LINKEDIN_USERNAME  →  your LinkedIn profile slug
-   - FIVERR_USERNAME    →  your Fiverr username
-   - YOUR_EMAIL         →  your email address
+2. PUSH BOTH FILES TO THE REPO ROOT
+   - README.md
+   - header.svg   ← must be in the same folder as README.md
 
-3. PUSH THIS README.md TO THE REPO
-   The GitHub username (muhmdfarhan0) is already
-   filled in everywhere — no other changes needed.
+3. ENABLE THE SNAKE ANIMATION
+   a. Create: .github/workflows/snake.yml  (see template below)
+   b. Repo Settings → Actions → General → "Read and write permissions" → Save
+   c. Actions tab → "Generate Snake Animation" → Run workflow
+   d. Wait ~2 min. Output branch is created. Snake appears.
 
-4. ENABLE THE SNAKE ANIMATION
-   a. In the profile repo, create:
-      .github/workflows/snake.yml  (file is included)
-   b. Go to repo Settings → Actions → General
-   c. Under "Workflow permissions" select
-      "Read and write permissions" → Save
-   d. Go to Actions tab → "Generate Snake Animation"
-      → Run workflow
-   e. Wait ~2 minutes. A new "output" branch is
-      created with the SVG files. The snake appears.
-   f. The workflow runs automatically every 12 hours.
+SNAKE WORKFLOW (.github/workflows/snake.yml):
+─────────────────────────────────────────────
+name: Generate Snake Animation
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+──────────────────────────────────────────────
 
-5. PROFILE VIEW COUNTER
-   Activates automatically on your first profile visit.
-   No setup needed.
-
-6. STATS CARDS
-   Update automatically via github-readme-stats.
-   No setup needed.
+4. PROFILE VIEW COUNTER — activates automatically on first visit.
 
 ══════════════════════════════════════════════════
 -->
