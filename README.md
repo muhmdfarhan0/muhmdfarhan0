@@ -47,15 +47,6 @@
 
 ---
 
-<!-- ── GITHUB TROPHIES ── -->
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=muhmdfarhan0&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/muhmdfarhan0)
-
-</div>
-
----
-
 <!-- ── JUPYTER WHOAMI ── -->
 
 **`In [1]:`** &nbsp; `whoami`
