@@ -45,6 +45,17 @@
 
 <br/>
 
+---
+
+<!-- ── GITHUB TROPHIES ── -->
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=muhmdfarhan0&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/muhmdfarhan0)
+
+</div>
+
+---
+
 <!-- ── JUPYTER WHOAMI ── -->
 
 **`In [1]:`** &nbsp; `whoami`
@@ -82,20 +93,20 @@ me = {
 <tr>
 <td width="50%" valign="top">
 
-### PromptPix
+### [PromptPix](https://promptpix.site)
 AI-powered visual search engine. Search and discover images using natural language prompts — built on CLIP-based embeddings and vector search.
 
-[![LIVE](https://img.shields.io/badge/LIVE-SaaS-blueviolet?style=for-the-badge)](https://promptpix.site)
+[![LIVE](https://img.shields.io/badge/LIVE-promptpix.site-blueviolet?style=for-the-badge)](https://promptpix.site)
 ![AI](https://img.shields.io/badge/AI-Computer_Vision-7c3aed?style=for-the-badge)
 ![Search](https://img.shields.io/badge/NLP-Vector_Search-ff69b4?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
 
-### Scrapreach
+### [Scrapreach](https://scrapreach.online)
 B2B lead generation platform. Automated data collection, enrichment, and outreach pipeline at scale — targeting US & UK markets.
 
-[![LIVE](https://img.shields.io/badge/LIVE-SaaS-blueviolet?style=for-the-badge)](https://scrapreach.online)
+[![LIVE](https://img.shields.io/badge/LIVE-scrapreach.online-blueviolet?style=for-the-badge)](https://scrapreach.online)
 ![Automation](https://img.shields.io/badge/Web-Scraping-orange?style=for-the-badge)
 ![B2B](https://img.shields.io/badge/B2B-Lead_Gen-brightgreen?style=for-the-badge)
 
@@ -144,6 +155,17 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 ![CVAT](https://img.shields.io/badge/CVAT-blue?style=for-the-badge)
 ![Roboflow](https://img.shields.io/badge/Roboflow-purple?style=for-the-badge)
 ![LabelStudio](https://img.shields.io/badge/Label_Studio-FF6B6B?style=for-the-badge)
+
+---
+
+<!-- ── ANIMATED SKILL BARS ── -->
+## 📈 Skill Activity
+
+<div align="center">
+
+![Computer Vision](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=8000&color=7c3aed&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+YOLO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;ML+Engineering+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Edge+AI+Deployment+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+85%25;Web+Scraping+%26+Automation+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Backend+%28FastAPI%2FNode%29+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+80%25;Data+Annotation+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+98%25)
+
+</div>
 
 ---
 
@@ -214,11 +236,13 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhmdfarhan0)
 &nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/muhmdfarhan0)
-&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfarhan03333@gmail.com)
 &nbsp;
-[![Agency](https://img.shields.io/badge/Datraxa.com-00d9ff?style=for-the-badge&logoColor=white)](https://datraxa.com)
+[![Datraxa](https://img.shields.io/badge/Datraxa.com-7c3aed?style=for-the-badge&logoColor=white)](https://datraxa.com)
+&nbsp;
+[![PromptPix](https://img.shields.io/badge/PromptPix-promptpix.site-blueviolet?style=for-the-badge)](https://promptpix.site)
+&nbsp;
+[![Scrapreach](https://img.shields.io/badge/Scrapreach-scrapreach.online-orange?style=for-the-badge)](https://scrapreach.online)
 
 </div>
 
@@ -236,26 +260,10 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 
 <!--
 ══════════════════════════════════════════════════
-SETUP STEPS — READ BEFORE PUBLISHING
+SETUP: SNAKE ANIMATION
 ══════════════════════════════════════════════════
+Create .github/workflows/snake.yml with this content:
 
-1. CREATE THE PROFILE REPO (if not done)
-   Go to github.com/new
-   Name it exactly: muhmdfarhan0  (your GitHub username)
-   Set to Public · check "Add a README file" · Create
-
-2. PUSH BOTH FILES TO THE REPO ROOT
-   - README.md
-   - header.svg   ← must be in the same folder as README.md
-
-3. ENABLE THE SNAKE ANIMATION
-   a. Create: .github/workflows/snake.yml  (see template below)
-   b. Repo Settings → Actions → General → "Read and write permissions" → Save
-   c. Actions tab → "Generate Snake Animation" → Run workflow
-   d. Wait ~2 min. Output branch is created. Snake appears.
-
-SNAKE WORKFLOW (.github/workflows/snake.yml):
-─────────────────────────────────────────────
 name: Generate Snake Animation
 on:
   schedule: [{ cron: "0 */12 * * *" }]
@@ -276,9 +284,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-──────────────────────────────────────────────
 
-4. PROFILE VIEW COUNTER — activates automatically on first visit.
-
+Then: Settings → Actions → General → "Read and write permissions" → Save
+Then: Actions tab → "Generate Snake Animation" → Run workflow
 ══════════════════════════════════════════════════
 -->
