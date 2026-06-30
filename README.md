@@ -54,6 +54,7 @@
 ```python
 me = {
     "name":          "Muhammad Farhan",
+    "portfolio":     "https://www.farhanai.online",
     "role":          "AI/ML Engineer & Computer Vision Specialist",
     "agency":        "Datraxa.com — founder & builder",
     "location":      "Islamabad, Pakistan 🇵🇰",
@@ -225,6 +226,8 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanai.online-7c3aed?style=for-the-badge&logoColor=white)](https://www.farhanai.online)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan07567)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfarhan03333@gmail.com)
