@@ -11,7 +11,7 @@
 <!-- ── TERMINAL TYPING ANIMATION ── -->
 <div align="center">
 
-![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%24+python+train.py+--model+yolov8+--deploy+edge;%24+git+push+origin+main+%23+shipped+%E2%9C%93;%24+datraxa+build+--product+promptpix;%24+fiverr+deliver+--rating+5.0+--projects+120%2B;%24+python+scrape.py+--target+b2b+--automate+true)
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%24+python+train.py+--model+yolov8+--deploy+edge;%24+git+push+origin+main+%23+shipped+%E2%9C%93;%24+arxiv2code+--paper+any.arxiv.org+--generate+blueprint;%24+datraxa+build+--product+promptpix;%24+fiverr+deliver+--rating+5.0+--projects+120%2B;%24+python+scrape.py+--target+b2b+--automate+true)
 
 </div>
 
@@ -60,7 +60,9 @@ me = {
     "location":      "Islamabad, Pakistan 🇵🇰",
     "education":     "BS Data Science — Air University (CGPA 3.28/4.0)",
     "experience":    "4+ years in CV, ML, Edge AI, Automation",
-    "products":      ["PromptPix (promptpix.site)",
+    "products":      ["arxiv2code (arxiv2code.vercel.app)",
+                      "LingoScribe (lingoscribe-frontend.vercel.app)",
+                      "PromptPix (promptpix.site)",
                       "Scrapreach (scrapreach.online)"],
     "fiverr":        "Level 2 Seller · 120+ projects · 4.9 ⭐",
     "open_to":       "Remote ML/CV/AI roles (US & UK startups)",
@@ -82,6 +84,28 @@ me = {
 ## 🚀 Live Products
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### [arxiv2code](https://arxiv2code.vercel.app)
+Paste any arXiv paper, get a real implementation kit — engineering blueprint, extracted hyperparameter config, starter PyTorch code, and a reproducibility checklist. Multi-provider LLM fallback chain (Groq → NVIDIA → Gemini), load-tested, with its own eval harness.
+
+[![LIVE](https://img.shields.io/badge/LIVE-arxiv2code.vercel.app-blueviolet?style=for-the-badge)](https://arxiv2code.vercel.app)
+![LLM](https://img.shields.io/badge/LLM-RAG_%2B_Multi--Provider-7c3aed?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Next.js-00ffff?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### [LingoScribe](https://lingoscribe-frontend.vercel.app)
+AI speech-to-text for Urdu & Punjabi. Transcribe audio, get segment-level English translation, AI insights, and live mic recording — no signup required.
+
+[![LIVE](https://img.shields.io/badge/LIVE-lingoscribe.vercel.app-blueviolet?style=for-the-badge)](https://lingoscribe-frontend.vercel.app)
+![Whisper](https://img.shields.io/badge/Groq-Whisper_Large--v3-ff69b4?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Speech_to_Text-orange?style=for-the-badge)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -108,6 +132,22 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 
 ---
 
+<!-- ── AI TOOLS & EXPERIMENTS ── -->
+## 🧰 AI Tools & Experiments
+
+Smaller, focused tools — mostly free, no-signup, built to solve one problem well.
+
+| Tool | What it does | Stack |
+|---|---|---|
+| [**SmartJSON**](https://muhmdfarhan0.github.io/smartjson/) | AI-powered JSON formatter, validator & error explainer — broken JSON gets fixed in plain English | Groq · JS |
+| [**QueryCraft**](https://github.com/muhmdfarhan0/querycraft) | Natural language → SQL generator, powered by Llama 3.3 70B on Groq | Groq · JS |
+| [**CronSpeak**](https://github.com/muhmdfarhan0/cronspeak) | Natural language → cron expression converter | Groq · JS |
+| [**JobTrackr**](https://muhmdfarhan0.github.io/jobtrackr/) | Kanban-board job application tracker — no sign-up, no backend, fully offline | TypeScript |
+| [**Real Estate AI Agent**](https://github.com/muhmdfarhan0/real-estate-ai-agent) | Extracts real estate listings as structured JSON using AI agents, Nebius Qwen, and Bright Data MCP | Python · Agents |
+| [**Disaster Recovery Advisor**](https://github.com/muhmdfarhan0/disaster-recovery-compliance-advisor) | RAG chatbot for disaster recovery, compliance & cybersecurity guidance | Flask · Groq · Vector Search |
+
+---
+
 <!-- ── TECH STACK ── -->
 ## 🛠️ Tech Stack
 
@@ -119,6 +159,14 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 ![YOLO](https://img.shields.io/badge/YOLOv5%2Fv7%2Fv8-00FFFF?style=for-the-badge&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-RKNN%2FINT8-9333ea?style=for-the-badge)
+
+**LLMs & RAG**
+
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-4b5563?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-7c3aed?style=for-the-badge)
 
 **Backend & APIs**
 
@@ -140,6 +188,7 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Annotation Tools**
@@ -155,7 +204,7 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 
 <div align="center">
 
-![Computer Vision](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=8000&color=7c3aed&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+YOLO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;ML+Engineering+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Edge+AI+Deployment+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+85%25;Web+Scraping+%26+Automation+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Backend+%28FastAPI%2FNode%29+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+80%25;Data+Annotation+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+98%25)
+![Computer Vision](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=8000&color=7c3aed&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+YOLO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;LLM+Engineering+%26+RAG+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+92%25;ML+Engineering+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Edge+AI+Deployment+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+85%25;Web+Scraping+%26+Automation+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Backend+%28FastAPI%2FNode%29+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+80%25;Data+Annotation+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+98%25)
 
 </div>
 
@@ -233,6 +282,14 @@ B2B lead generation platform. Automated data collection, enrichment, and outreac
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfarhan03333@gmail.com)
 &nbsp;
 [![Datraxa](https://img.shields.io/badge/Datraxa.com-7c3aed?style=for-the-badge&logoColor=white)](https://datraxa.com)
+
+</div>
+
+<div align="center">
+
+[![arxiv2code](https://img.shields.io/badge/arxiv2code-arxiv2code.vercel.app-blueviolet?style=for-the-badge)](https://arxiv2code.vercel.app)
+&nbsp;
+[![LingoScribe](https://img.shields.io/badge/LingoScribe-lingoscribe.vercel.app-blueviolet?style=for-the-badge)](https://lingoscribe-frontend.vercel.app)
 &nbsp;
 [![PromptPix](https://img.shields.io/badge/PromptPix-promptpix.site-blueviolet?style=for-the-badge)](https://promptpix.site)
 &nbsp;
