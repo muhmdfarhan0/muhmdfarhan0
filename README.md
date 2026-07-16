@@ -55,25 +55,30 @@
 me = {
     "name":          "Muhammad Farhan",
     "portfolio":     "https://www.farhanai.online",
-    "role":          "AI/ML Engineer & Computer Vision Specialist",
-    "agency":        "Datraxa.com — founder & builder",
-    "location":      "Islamabad, Pakistan 🇵🇰",
+    "role":          "AI Engineer — Agentic Systems, Computer Vision & Edge ML",
     "education":     "BS Data Science — Air University (CGPA 3.28/4.0)",
-    "experience":    "4+ years in CV, ML, Edge AI, Automation",
+    "experience":    "4+ years shipping production AI/ML systems",
+    "work_history":  ["Founder & AI Engineer @ Datraxa (2023 — Present)",
+                      "LLM Evaluator @ Turing.com (2024)",
+                      "AI Engineer @ CaptainAI, Netherlands (2024)",
+                      "Freelance AI/ML Engineer @ Fiverr — Level 2, 120+ projects"],
     "products":      ["arxiv2code (arxiv2code.vercel.app)",
                       "LingoScribe (lingoscribe-frontend.vercel.app)",
                       "PromptPix (promptpix.site)",
                       "Scrapreach (scrapreach.online)"],
-    "fiverr":        "Level 2 Seller · 120+ projects · 4.9 ⭐",
-    "open_to":       "Remote ML/CV/AI roles (US & UK startups)",
-    "currently":     "Building AI tools @ Datraxa · job hunting",
+    "core_skills":   ["Agentic AI (LangChain, Claude/GPT tool-use, MCP)",
+                      "Computer Vision (YOLOv8, PyTorch, OpenCV)",
+                      "Edge ML (RKNN, ONNX, INT8 quantization)",
+                      "Scraping & Automation at scale (Playwright, Apify)"],
+    "location":      "Islamabad, Pakistan 🇵🇰",
+    "open_to":       "Remote AI Engineer roles — full-time or contract",
 }
 ```
 
 **`Out [1]:`**
 
 ```
-{'name': 'Muhammad Farhan', 'role': 'AI/ML Engineer & Computer Vision Specialist', ...}
+{'name': 'Muhammad Farhan', 'role': 'AI Engineer — Agentic Systems, Computer Vision & Edge ML', ...}
 ```
 
 <br/>
@@ -143,7 +148,6 @@ Smaller, focused tools — mostly free, no-signup, built to solve one problem we
 | [**QueryCraft**](https://github.com/muhmdfarhan0/querycraft) | Natural language → SQL generator, powered by Llama 3.3 70B on Groq | Groq · JS |
 | [**CronSpeak**](https://github.com/muhmdfarhan0/cronspeak) | Natural language → cron expression converter | Groq · JS |
 | [**JobTrackr**](https://muhmdfarhan0.github.io/jobtrackr/) | Kanban-board job application tracker — no sign-up, no backend, fully offline | TypeScript |
-| [**Real Estate AI Agent**](https://github.com/muhmdfarhan0/real-estate-ai-agent) | Extracts real estate listings as structured JSON using AI agents, Nebius Qwen, and Bright Data MCP | Python · Agents |
 | [**Disaster Recovery Advisor**](https://github.com/muhmdfarhan0/disaster-recovery-compliance-advisor) | RAG chatbot for disaster recovery, compliance & cybersecurity guidance | Flask · Groq · Vector Search |
 
 ---
@@ -215,15 +219,7 @@ Smaller, focused tools — mostly free, no-signup, built to solve one problem we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhmdfarhan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmdfarhan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" height="165" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmdfarhan0&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)
+![Streak](https://streak-stats.demolab.com/?user=muhmdfarhan0&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)
 
 </div>
 
@@ -256,11 +252,11 @@ Smaller, focused tools — mostly free, no-signup, built to solve one problem we
 <!-- ── OPEN TO WORK ── -->
 ## 💼 Open to Opportunities
 
-> **Actively looking for remote ML / CV / AI Engineering roles at US & UK funded startups**
+> **Data Science graduate with 4+ years of real-world AI engineering experience — actively looking for remote AI Engineer roles.**
 >
-> Available as **contractor or full-time remote** from Islamabad, Pakistan.
+> Available as **full-time or contract remote** from Islamabad, Pakistan.
 >
-> Ideal roles: **Computer Vision Engineer** · **ML Engineer** · **AI Engineer** · **Automation Engineer**
+> Ideal roles: **AI Engineer** · **ML Engineer** · **Computer Vision Engineer** · **Applied AI / Agentic AI Engineer**
 
 <br/>
 
