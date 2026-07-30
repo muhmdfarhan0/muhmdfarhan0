@@ -219,7 +219,7 @@ Smaller, focused tools — mostly free, no-signup, built to solve one problem we
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=muhmdfarhan0&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&cache_seconds=1)
+![Streak](https://streak-stats.demolab.com/?user=muhmdfarhan0&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&cache_seconds=86400)
 
 </div>
 
